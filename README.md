@@ -1,3 +1,3 @@
 # Library-Management-System
-Library Management System
-This is our project
+Library Management System. This document contributes to knowledge by modeling and design of a hypothetical school library database. The developed database can serve as the fundament of Library Information System. The goal of the project is to create a database that will allow the Library System to provide information about the books and students. The database will be functioned by principle of simplifying from selectable lists. Thus, it will reduce data errors with minimizing typing. One of the main goals is to provide information about books for students exactly.
+Overall, the administration of the school is database's client, however the primary users are students. They will use the database to input data about new books and to keep track of the borrowed status.
